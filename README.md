@@ -1,2 +1,3 @@
 # weather-js-api
-Simple weather webapp with API
+
+Simple weather webapp using OpenWeather API
